@@ -26,6 +26,20 @@ Latley this idea has been taking in to even more extreme, as microsoft realsed t
 
 ![03](03.png)
 
+**02: exploration
+
+I decided I want to take microsoft concept or illustration system to extreme. I wanted to use the data set of google "quick draw" becouse it is the farest I felt I could go style wise from the flat smooth coaporate tech style. And for text used the book Anna Karnina, just becouse I love the book and I think it has beutiful sentences. I also worked with it before so it made things a bit easier for me.
+
+I already had a script looking for sentences with specific words from my midterm (in which I made a twitter bot that twitted all the sentences with the word Anna with them). Using my professor Daniel Shiffman's taturial about Quick Draw I was able to create another script that pull off all of the drawings of the word garden.
+
+With some help from my friend David Curry I was able to connect this two scripts and combining all the sentences with the word garden in them into the garden drawings, and I was pleased with this first expirement.
+
+![05](05.png)
+
+
+**03: next steps
+
+For the finals, I want to use more words and create "illustration sentences". The idea is to build an illustration from 3 or more differnet words, and design the relation between them (direction, size, etc) using Rita analasis of the sentence.
 
 
 
