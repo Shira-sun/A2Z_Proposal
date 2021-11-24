@@ -15,6 +15,7 @@ var data = fs.readFileSync("Anna.txt", "utf8");
 let sentences = RiTa.sentences(data.toString());
 
 let annaSentences = [];
+//comment
 // regular exp to find sen with Anna
 
 sentences.forEach((sentence) => {
