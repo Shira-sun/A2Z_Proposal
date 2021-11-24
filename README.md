@@ -26,7 +26,7 @@ Latley this idea has been taking in to even more extreme, as microsoft realsed t
 
 ![03](03.png)
 
-**02: exploration
+**02: exploration**
 
 I decided I want to take microsoft concept or illustration system to extreme. I wanted to use the data set of google "quick draw" becouse it is the farest I felt I could go style wise from the flat smooth coaporate tech style. And for text used the book Anna Karnina, just becouse I love the book and I think it has beutiful sentences. I also worked with it before so it made things a bit easier for me.
 
@@ -37,7 +37,7 @@ With some help from my friend David Curry I was able to connect this two scripts
 ![05](05.png)
 
 
-**03: next steps
+**03: next steps**
 
 For the finals, I want to use more words and create "illustration sentences". The idea is to build an illustration from 3 or more differnet words, and design the relation between them (direction, size, etc) using Rita analasis of the sentence.
 
