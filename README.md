@@ -16,11 +16,11 @@ Another point of interst for me is what is called "Corporate Memphis". In 2017 F
 
 For example, what the hell are the people in this illustration are doing?
 
-![02](02.jpg)
+![02](02.jpeg)
 
 From my work experience in tech- I know excactly how this kind of things happen, and I had my part in creating them. They are (or are they?) inclusive, fast to create, and good for making scary terms like "big data" seem cute. But this is how I feel about it this days:
 
-![04](04.jpg)
+![04](04.jpeg)
 
 Latley this idea has been taking in to even more extreme, as microsoft realsed to office word a system in which the user can create illustrations using smaller and smaller component. The user, in my view, is expected to behave like an algorithm.
 
