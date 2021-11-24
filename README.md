@@ -16,7 +16,7 @@ Another point of interst for me is what is called "Corporate Memphis". In 2017 F
 
 For example, what the hell are the people in this illustration are doing?
 
-![02](01.jpeg)
+![02](01.jpg)
 
 From my work experience in tech- I know excactly how this kind of things happen, and I had my part in creating them. They are (or are they?) inclusive, fast to create, and good for making scary terms like "big data" seem cute. But this is how I feel about it this days:
 
