@@ -43,14 +43,16 @@ sentences.forEach((sentence) => {
 });
 
 sentences.forEach((sentence) => {
-  const regex = /clock/g;
+  const regex = /time/g;
   const found = sentence.match(regex);
 
   if (found) {
     clockSentences.push(sentence);
-    console.log(clock.clockSentences);
+    console.log("Pushed");
   }
 });
+
+console.log(clockSentences);
 
 fs.createReadStream("simplified_wine glass.ndjson")
   .pipe(ndjson.parse())

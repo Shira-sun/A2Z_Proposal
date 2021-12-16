@@ -20,7 +20,7 @@ function setup() {
 
   setInterval(() => {
     background(243, 244, 234);
-    loadJSON("/wine", gotGraden);
+    loadJSON("/garden", gotGraden);
   }, 10000);
 }
 
@@ -28,10 +28,10 @@ function draw() {}
 
 let drawing;
 function gotGraden(data) {
-  console.log(data);
+  //console.log(data);
   let drawing = data.image.drawing;
   let sentence = data.sentence;
-  console.log(drawing);
+  //console.log(drawing);
 
   // p.html(sentence);
 
