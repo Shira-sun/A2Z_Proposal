@@ -36,6 +36,10 @@ With some help from my friend David Curry I was able to connect this two scripts
 
 ![05](images/05.png)
 
-**03: next steps**
+**03: Design**
 
-For the finals, I want to use more words and create "illustration sentences". The idea is to build an illustration from 3 or more differnet words, and design the relation between them (direction, size, etc) using Rita analasis of the sentence.
+After recieving feedback on user testing in class, I decided to spend some time on design.
+I wanted to make the drawing feels human, so I decided to make a brush to draw the point. I love the look of ink so that was the direction I was going for.
+I found this sketch by
+
+<iframe src="https://editor.p5js.org/AhmadMoussa/full/UEkATscAg"></iframe>
