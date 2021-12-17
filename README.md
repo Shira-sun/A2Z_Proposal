@@ -55,8 +55,11 @@ I was very happy with the result, and added another stroke with half opacity and
 **04: Summery**
 
 I added two more words and ndjson, so now my server has 3 options: time, garden and wine.
+
 If I had more time to work on this project, I would love to genenrate drawings from a few nouns together, using Rita.js to analyze the text. Would also be very cool to illustrate a full book or comic using this generator.
+
 I feel happy that this project took me to unexpected places, had a lot of fun figuring out the brush. This project is also the most complecated in organisation I had so far, and now working with VS code, git and the terminal is much smoother experience for me.
+
 Here are some screenshots of my favorites drawings-
 
 ![10](Screenshots/02.png)
