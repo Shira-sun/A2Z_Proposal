@@ -40,6 +40,27 @@ With some help from my friend David Curry I was able to connect this two scripts
 
 After recieving feedback on user testing in class, I decided to spend some time on design.
 I wanted to make the drawing feels human, so I decided to make a brush to draw the point. I love the look of ink so that was the direction I was going for.
-I found this sketch by
+I found <a href="https://editor.p5js.org/AhmadMoussa/sketches/UEkATscAg">this sketch</a> by Ahmed Moussa that I really liked. It took me a few hours to break down his code and understand how it could work with my data, but evenyualy I got it to work on <a href="https://editor.p5js.org/Shiraserilevi/sketches/k7UZxWgCk">this sketch</a>. However, I still had a bug- the lines of the drawing were all connected and the drawing were unreadable.
 
-<iframe src="https://editor.p5js.org/AhmadMoussa/full/UEkATscAg"></iframe>
+![08](images/08.png)
+
+After a few hours and some help from Wasif in the coding lab, we got it to work-
+
+![09](images/09.png)
+
+I was very happy with the result, and added another stroke with half opacity and Multiply blend mode, to make it feel even more like an ink a water drawing. I changed the interval that move between the drawing to be much slower, becouse the drawing looked more poetic now. I also made some changes in the CSS file-
+
+![10](Screenshots/01.png)
+
+**04: Summery**
+
+I added two more words and ndjson, so now my server has 3 options: time, garden and wine.
+If I had more time to work on this project, I would love to genenrate drawings from a few nouns together, using Rita.js to analyze the text. Would also be very cool to illustrate a full book or comic using this generator.
+I feel happy that this project took me to unexpected places, had a lot of fun figuring out the brush. This project is also the most complecated in organisation I had so far, and now working with VS code, git and the terminal is much smoother experience for me.
+Here are some screenshots of my favorites drawings-
+
+![10](Screenshots/02.png)
+![10](Screenshots/04.png)
+![10](Screenshots/05.png)
+![10](Screenshots/06.png)
+![10](Screenshots/07.png)
