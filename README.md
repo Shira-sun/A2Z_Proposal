@@ -39,7 +39,7 @@ With some help from my friend David Curry I was able to connect this two scripts
 **03: Design**
 
 After recieving feedback on user testing in class, I decided to spend some time on design.
-I wanted to make the drawing feels human, so I decided to make a brush to draw the point. I love the look of ink so that was the direction I was going for.
+I wanted to make the drawing feels human, so I decided to make a brush to draw the points. I love the look of ink so that was the direction I was going for.
 I found <a href="https://editor.p5js.org/AhmadMoussa/sketches/UEkATscAg">this sketch</a> by Ahmed Moussa that I really liked. It took me a few hours to break down his code and understand how it could work with my data, but evenyualy I got it to work on <a href="https://editor.p5js.org/Shiraserilevi/sketches/k7UZxWgCk">this sketch</a>. However, I still had a bug- the lines of the drawing were all connected and the drawing were unreadable.
 
 ![08](images/08.png)
